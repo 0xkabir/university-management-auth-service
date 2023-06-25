@@ -1,9 +1,9 @@
-import { Model } from 'mongoose'
+import { Model } from 'mongoose';
 
 export type IUser = {
-  id: string
-  password: string
-  role: string
-}
+  id: string;
+  password: string;
+  role: string;
+};
 
-export type UserModel = Model<IUser, object> //to create further statics
+export type UserModel = Model<IUser, object>; //to create further statics
