@@ -44,6 +44,16 @@
             "date": 1687629797968,
             "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/successes/success-2023-06-25-00.log",
             "hash": "5eeda186ff3f06a6e609902a158757d2760c02134ed347ae4713983398d26c35"
+        },
+        {
+            "date": 1687663043411,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/successes/success-2023-06-25-09.log",
+            "hash": "7c9b1585440df0c3e67d2d74095fdbe1a5a96293dcbb68d35067adc198a4710b"
+        },
+        {
+            "date": 1687673579276,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/successes/success-2023-06-25-12.log",
+            "hash": "31263b23aa7f70ae00bcf97ec9f5c4c03033790dff43277e961c4b1f7212bae8"
         }
     ],
     "hashType": "sha256"

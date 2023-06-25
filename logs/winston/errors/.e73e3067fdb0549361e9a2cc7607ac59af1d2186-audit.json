@@ -44,6 +44,16 @@
             "date": 1687629797973,
             "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-25-00.log",
             "hash": "80bbe5d5d059d4d86777c2d7308ce736c7fec4a2520b44fe392521969aa07b0b"
+        },
+        {
+            "date": 1687663043423,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-25-09.log",
+            "hash": "7f11c37c7fadbe45e5e75d9628cb86f2d0d39d3a7966a37a22424037a2de0728"
+        },
+        {
+            "date": 1687673579280,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-25-12.log",
+            "hash": "baac9a5ec6936cd95848705550050bde0d1fc167f88dcd68d7f2cff90d19e53f"
         }
     ],
     "hashType": "sha256"
