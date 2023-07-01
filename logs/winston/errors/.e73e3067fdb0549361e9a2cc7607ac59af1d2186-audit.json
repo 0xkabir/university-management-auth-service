@@ -104,6 +104,91 @@
             "date": 1687780862216,
             "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-26-18.log",
             "hash": "8bae04917aa575341a629916856664fa3d2b13354b985deb3b768ed510a5465c"
+        },
+        {
+            "date": 1687798103776,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-26-22.log",
+            "hash": "f4809057fc5e3f6499df49b603a30945531e79bb856d4e3451a860416f09f2d8"
+        },
+        {
+            "date": 1687842171410,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-27-11.log",
+            "hash": "6237a6ec1d133fdf5f2aed3f6a41d0d67041252913f1bc7bfb6ba45fd3e00a9f"
+        },
+        {
+            "date": 1687874537347,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-27-20.log",
+            "hash": "6c0b840ee1d922591d2d0e9e2a55f163a4cd7d7821324b6113a75773a909fe96"
+        },
+        {
+            "date": 1687881099838,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-27-21.log",
+            "hash": "83d64ffa9c7747dd2ca5035a1d4aa64f7b740a2e3ec6fd0aacf8ae3c0a67f6f1"
+        },
+        {
+            "date": 1687931505256,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-11.log",
+            "hash": "740365c957bb7eadaf0dc3fb6dfe9155220f2b1139994f225d0945f6b4baa676"
+        },
+        {
+            "date": 1687936437430,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-13.log",
+            "hash": "46be5503a9689d5036e441c1f4b25b6e5e583cb66a26e43e66b1e1cfba82b79a"
+        },
+        {
+            "date": 1687939990214,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-14.log",
+            "hash": "2e3b48357e98d1c8f32bea7383d5cdbaac94a39d136204ced6987238284bfd29"
+        },
+        {
+            "date": 1687942980471,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-15.log",
+            "hash": "447a391faef7134a33c4511e00af7e1cf03b5bbbf33abf3246693e278ce54bc1"
+        },
+        {
+            "date": 1687957816781,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-19.log",
+            "hash": "88ec3385d5c83b47d04b57b2dd0589ef361aed62fd673fea3c865da7e39d9faa"
+        },
+        {
+            "date": 1687961131251,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-20.log",
+            "hash": "9054fa8ce7e5635dab9ad02ab8eef44ef92dea8c0948d8a190835931b8bd7fee"
+        },
+        {
+            "date": 1687967629499,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-21.log",
+            "hash": "5f0af34d80af08fdd1123e1eeb3fef7200a811639eccede6da1b1d9fc593e6d6"
+        },
+        {
+            "date": 1687968040207,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-22.log",
+            "hash": "976646465aaffcc6cc4badee6c0e91204888e4c41c4b962abfa6322ed904fe4d"
+        },
+        {
+            "date": 1687971938381,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-06-28-23.log",
+            "hash": "8826a3b7fc31489c58b561b0e612f44da9d0db7b34dbe66cf4fdf08e2a747ba7"
+        },
+        {
+            "date": 1688182490684,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-07-01-09.log",
+            "hash": "6277bbb0d1f52e22f1604ac7ac3f698e0d6862c31abadfac5efc3b6096bde212"
+        },
+        {
+            "date": 1688189707509,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-07-01-11.log",
+            "hash": "41a0fee3d69bbce8205f3186c2099345084cd67c1050621baf02b2d3ee3013e3"
+        },
+        {
+            "date": 1688191271138,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-07-01-12.log",
+            "hash": "6064d2b0c959ca0f4e77c8698767867f531ee314c8d54a23beb7e31bd3aad451"
+        },
+        {
+            "date": 1688203101852,
+            "name": "/home/kabir/Desktop/next-2.0/university-management-auth-service/logs/winston/errors/error-2023-07-01-15.log",
+            "hash": "0d74f535ae46d799def86e0cae92c0f2a5cba6cd9719a15b6bd11905563624e5"
         }
     ],
     "hashType": "sha256"
